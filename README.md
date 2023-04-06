@@ -6,7 +6,7 @@ AnonymalTV est une association basée sur Aix-en-Provence dans le sud de la Fran
 
 D'un autre côté nous avons la maison numérique. La maison numérique est un autre pan d'Anonymal qui vient concrétement essayer de réduire la fracture numérique dans les quartiers d'Aix-en-Provence et des environs. La médiation numérique est centrale pour nous, mise en place d'ateliers avec des jeunes autour des pratiques informatiques (programmation de jeux vidéos, MAO, CGI) mais aussi cours pratiques avec les usagers plus âgés (Parcours numérique débutant couvrant la bureautique et les outils de recherche internet, formation...=)
 
-#FABLAB
+# ✍ FABLAB
 
 La Maison Numérique est équipée d'un fablab qui permet réellement de fabriquer tout ce que l'on veut. Que vous soyez encadré par notre fablab manager ou que vous veniez avecun projet perso, notre fl manager aura plaisir de vous accompagner.
 
