@@ -15,4 +15,4 @@ La Maison Numérique est équipée d'un fablab qui permet réellement de fabriqu
 Nous cherchons avec ce github à partager nos projets réalisés à la maison numérique. Que ce soit du côté fablab avec nos fiches projet et les fichier STL ou OBJ pour la 3D ou DXF pour le découpage laser, nous voulons vraiment partager ce que nous réalisons dans l'enceinte du FabLab. 
 En dehors du fablab, nos projets de programmation en robotique avec MBlock pour Arduino et autres seront aussi upload pour vous permettre de les récupérer à votre guise et de les rendre encore meilleurs!
 
-Bonne visite de notre github et à bientôt chez Anonymal ! 😀
+Bonne visite de notre github et à bientôt chez Anonymal ! 😀 
